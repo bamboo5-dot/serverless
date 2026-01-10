@@ -13,7 +13,7 @@
   },
   "author": "Serverless Inc.",
   "dependencies": {
-    "@aws-sdk/client-acm": "3.952.0",
+    "@aws-sdk/client-acm": "3.956.0",
     "@aws-sdk/client-api-gateway": "3.952.0",
     "@aws-sdk/client-apigatewayv2": "3.952.0",
     "@aws-sdk/client-application-auto-scaling": "3.952.0",
